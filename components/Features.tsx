@@ -17,7 +17,7 @@ export default function Features() {
     {
       icon: Users,
       title: 'Flexible Memberships',
-      description: 'Plans designed for your lifestyle—whether you're starting out or going all-in. No long-term commitment drama.'
+      description: 'Plans designed for your lifestyle—whether you\'re starting out or going all-in. No long-term commitment drama.'
     },
     {
       icon: TrendingUp,
